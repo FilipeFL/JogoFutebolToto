@@ -1,2 +1,6 @@
 # JogoFutebolToto
-A simple game that I developed at the first semester of 2021 and is inspired in the concepts of table football games.
+Um jogo simples que desenvolvi no primeiro semestre de 2021, inspirado no futebol de mesa. 
+
+# As Pastas
+
+A pasta "Build_FutebolToto" contém a build executável do jogo, enquanto a pasta "Códigos" contém todos os códigos que foram usados para a build final do jogo.
